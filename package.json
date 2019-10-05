@@ -1,0 +1,35 @@
+{
+  "name": "foto-io",
+  "version": "1.0.0",
+  "description": "Plataforme de venda de foto online, de festas, eventos esportivos, fotos de educação escolar entre outros..",
+  "main": "app",
+  "scripts": {
+    "start":"nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gisiona/foto-io.git"
+  },
+  "keywords": [
+    "Foto io",
+    "Online",
+    "Pagamento",
+    "Online",
+    "Eventos",
+    "Momentos",
+    "Únicos."
+  ],
+  "author": "Gisiona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gisiona/foto-io/issues"
+  },
+  "homepage": "https://github.com/Gisiona/foto-io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}

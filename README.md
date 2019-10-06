@@ -1,2 +1,1 @@
-# foto-io
-Plataforma de de vendas e distribuição de fotos.
+# oministack9-rocketseat-back-end-nodejs

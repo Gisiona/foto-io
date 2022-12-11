@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/Gisiona/foto-io#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
